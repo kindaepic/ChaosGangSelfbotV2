@@ -1,1 +1,1 @@
-JUST TESTING A WEBHOOK DONT MIND ME
+Currently outdated. V3 will be released soon.
